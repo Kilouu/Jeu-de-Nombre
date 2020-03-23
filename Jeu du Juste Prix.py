@@ -16,10 +16,6 @@ print(n)
 
 # Présentation
 
-print("WELCOME !")
-name = input("Comment dois je t'appeller ? : ")
-print("Ok ! Salut ", end = "")
-print(name)
 print("Le but de ce jeux est de trouver le nombre exacte auquel le Robots pense.")
 print("J'espère que ce jeu va te plaire")
 print("Bonne Chance")
@@ -50,3 +46,6 @@ print("Perdu en 20 coup")
 
 stop = print(input("Le programme est finit, appuye sur la Touche 'entrée' pour arréter"))
 quit()
+
+# Fin ©
+# Discord : Naashy#8434
