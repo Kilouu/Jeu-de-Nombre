@@ -45,3 +45,7 @@ print("Perdu en 20 coup")
 
 stop = print(input("Le programme est finit, appuye sur la Touche 'entrée' pour arréter"))
 quit()
+
+# Fin ©
+# My GitHub : https://github.com/Naashy
+# My Discord : Naashy#8434
