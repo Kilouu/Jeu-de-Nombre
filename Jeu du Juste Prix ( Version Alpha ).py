@@ -4,7 +4,6 @@
 
 
 from random import *
-import os 
 
 # Un nombre aléatoire est choisit par le programme
 
@@ -12,14 +11,10 @@ n = randint(1,1000)
 
 # Mettre print(n) si vous souhaitez tester le programme en vous affichant la réponse dès le débuts
 
-print(n)
 
 # Présentation
 
 print("WELCOME !")
-name = input("Comment dois je t'appeller ? : ")
-print("Ok ! Salut ", end = "")
-print(name)
 print("Le but de ce jeux est de trouver le nombre exacte auquel le Robots pense.")
 print("J'espère que ce jeu va te plaire")
 print("Bonne Chance")
